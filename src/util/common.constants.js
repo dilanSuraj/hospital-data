@@ -1,4 +1,4 @@
-const API_URL = "http://hpb.health.gov.lk/api/get-current-statistical";
+const API_URL = "https://hpb.health.gov.lk/api/get-current-statistical";
 
 
 module.exports = {
