@@ -1,0 +1,6 @@
+{
+  "name": "Corona Patients",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./listView.js"
+}
